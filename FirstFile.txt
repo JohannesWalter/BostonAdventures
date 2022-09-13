@@ -1,4 +1,4 @@
-Hello world
+Hello world. Trying out what happens if we both edit the same line in the same file *RED LIGHTS MATTTER*
 New file
 
 Add On:
