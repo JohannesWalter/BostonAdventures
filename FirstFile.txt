@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello world. Trying out what happens if we both edit the same line in the same file *RED LIGHTS MATTTER*
+=======
+This is a message for Jan: How's it going?
+Hello world
+>>>>>>> 4308571d9fe4e69e93720b47a43a6a23f775c483
 New file
 
 Add On:
