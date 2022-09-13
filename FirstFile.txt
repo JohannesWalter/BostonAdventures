@@ -1,2 +1,6 @@
 Hello world
 New file
+
+Add On:
+This text is supposed to mimick Jan and Johannes doing data additional data analysis.
+(This file has already existed on John's computer)
